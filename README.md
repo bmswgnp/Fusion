@@ -24,4 +24,4 @@ This algorithm is intended to be used in conjunction with the AHRS sensor fusion
 Tilt-compensated compass
 ------------------------
 
-The tilt-compensated compass calculates an angular heading relative to magnetic north using an accelerometer and magnetometer (NWU convention).
+The tilt-compensated compass calculates an angular heading relative to magnetic north using accelerometer and magnetometer measurements (NWU convention).

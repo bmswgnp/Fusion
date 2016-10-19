@@ -2,7 +2,8 @@
  * @file FusionCompass.h
  * @author Seb Madgwick
  * @brief The tilt-compensated compass calculates an angular heading relative to
- * magnetic north using an accelerometer and magnetometer (NWU convention).
+ * magnetic north using accelerometer and magnetometer measurements (NWU
+ * convention).
  */
 
 #ifndef FUSION_COMPASS_H
